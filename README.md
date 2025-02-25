@@ -17,7 +17,7 @@ Within the samples, please refer to the ones labeled **Okta Hosted Login** or **
 
 For even more examples of how to get started with the  Sign-In Widget, check out this post, which walks you through the basic customizations and setting up a custom domain.
 
-{% excerpt /blog/2023/01/12/signin-custom-domain %}
+[blog](https://developer.okta.com/blog/2023/01/12/signin-custom-domain)
 
 ## Help
 
