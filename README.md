@@ -1,6 +1,6 @@
 # How to level up your Okta Hosted Sign-In Widget default customization
 
-This repo contains the completed HTML and CSS code laid out in the tutorial [From Meh to Wow: Customize Your Okta Sign-In Experience](https://developer.okta.com/blog/).
+This repo contains the completed HTML and CSS code in the tutorial [From Meh to Wow: Customize Your Okta Sign-In Experience](https://developer.okta.com/blog/).
 
 **Prerequisites**
 This guide assumes you already have:
@@ -15,13 +15,11 @@ If you don't have the above setup just yet, you can test one of our [samples](ht
 
 Within the samples, please refer to the ones labeled **Okta Hosted Login** or **Redirect Model**. For example, here is one in [React](https://github.com/okta-samples/okta-react-sample) and [Angular](https://github.com/okta-samples/okta-angular-quickstart). Each sample readme should have directions on creating an SSO application within Okta. Still, for more info, you can always refer to this page on [creating app integrations](https://help.okta.com/en-us/content/topics/apps/apps_app_integration_wizard_oidc.htm.). One last note, be sure you are using the correct authorization server for SSO and that is the [Okta Org Authorization Server](https://developer.okta.com/docs/concepts/auth-servers/#org-authorization-server). 
 
-For even more examples of how to get started with the  Sign-In Widget, check out this post, which walks you through the basic customizations and setting up a custom domain.
-
-[blog](https://developer.okta.com/blog/2023/01/12/signin-custom-domain)
+For even more examples of how to get started with the  Sign-In Widget, check out this [post](https://developer.okta.com/blog/2023/01/12/signin-custom-domain), which walks you through the basic customizations and setting up a custom domain.
 
 ## Help
 
-Please post any questions as comments on the [blog post](https://developer.okta.com/blog/2024/02/29/net-scim), or visit our [Okta Developer Forums](https://devforum.okta.com/).
+Please post any questions as comments on the [blog post](https://developer.okta.com/blog/), or visit our [Okta Developer Forums](https://devforum.okta.com/).
 
 ## License
 
