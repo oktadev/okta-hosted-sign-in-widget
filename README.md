@@ -1,4 +1,4 @@
-# How to level up your Okta Hosted Sign-In Widget default customization
+# From Meh to Wow: Customize Your Okta Sign-In Experience
 
 This repo contains the completed HTML and CSS code in the tutorial [From Meh to Wow: Customize Your Okta Sign-In Experience](https://developer.okta.com/blog/).
 
