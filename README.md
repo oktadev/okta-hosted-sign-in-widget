@@ -1,4 +1,4 @@
-# From Meh to Wow: Customize Your Okta Sign-In Experience
+# Okta Sign-In Widget Customization Example
 
 This repo contains the completed [HTML and CSS code](CustomOktaSign-InWidget.html) in the tutorial [From Meh to Wow: Customize Your Okta Sign-In Experience](https://developer.okta.com/blog/).
 
