@@ -1,6 +1,6 @@
 # Okta Sign-In Widget Customization Example
 
-This repo contains the completed [HTML and CSS code](CustomOktaSign-InWidget.html) in the tutorial [From Meh to Wow: Customize Your Okta Sign-In Experience](https://developer.okta.com/blog/2025-02-26-okta-hosted-sign-in-widget.md).
+This repo contains the completed [HTML and CSS code](CustomOktaSign-InWidget.html) in the tutorial [From Meh to Wow: Customize Your Okta Sign-In Experience](https://developer.okta.com/blog/2025/02/26/okta-hosted-sign-in-widget).
 
 **Prerequisites**
 This guide assumes you already have:
@@ -19,7 +19,7 @@ For even more examples of how to get started with the Okta Sign-In Widget, check
 
 ## Help
 
-Please post any questions as comments on the [blog post](https://developer.okta.com/blog/2025-02-26-okta-hosted-sign-in-widget.md), or visit our [Okta Developer Forums](https://devforum.okta.com/).
+Please post any questions as comments on the [blog post](https://developer.okta.com/blog/2025-02-26-okta-hosted-sign-in-widget), or visit our [Okta Developer Forums](https://devforum.okta.com/).
 
 ## License
 
